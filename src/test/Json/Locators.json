@@ -1,0 +1,6 @@
+{
+
+  "UserName" : "//*[@id='email']",
+  "password" : "//*[@id='pass']",
+  "loginBtn" : "//*[@id='u_0_2']"
+}
